@@ -18,3 +18,6 @@ First download [UFDD](https://ufdd.info) and [WIDER](http://shuoyang1213.me/WIDE
 At this point you will have the Data and Annotation directories setup correctly and you can run the evaluation.
 Open the colab notebook (.ipynb file) in Google Colab and load Data and Annotation in the content folder. Then run all the cells to run the speed tests and extract the predictions.
 To get the final mIoU values, download the predictions, put them in the Predictions folder and run `python scripts/calculate_mIoU.py` and the scores will be printed. In case you want to evaluate your own model extract a predictions file in the same format as those provided and add your model in the evaluation file (calculate_mIoU.py).
+
+
+The code is adapted from [LearnOpenCV](https://github.com/spmallick/learnopencv/blob/master/Face-Detection-Ultimate-Guide/face_detection_inference_combined.ipynb)
