@@ -1,0 +1,1655 @@
+Accessories/Yes/illumination_00336.jpg
+1
+488 180 112 125
+Expression/Extreme/41_Swimming_Swimming_41_535.jpg
+0
+Light/Irregular/illumination_03395.jpg
+1
+474 232 83 110
+Light/Irregular/illumination_03335.jpg
+0
+Accessories/No/61_Street_Battle_streetfight_61_22.jpg
+1
+174 52 123 165
+Ethnics/Asian/13_Interview_Interview_On_Location_13_478.jpg
+0
+Pose/Extreme/43_Row_Boat_Canoe_43_341.jpg
+0
+Ethnics/African/51_Dresses_wearingdress_51_465.jpg
+1
+354 247 310 402
+Pose/Extreme/44_Aerobics_Aerobics_44_707.jpg
+0
+Light/Regular/31_Waiter_Waitress_Waiter_Waitress_31_847.jpg
+1
+379 98 260 294
+Expression/Normal/35_Basketball_playingbasketball_35_644.jpg
+1
+342 213 179 213
+Ethnics/African/40_Gymnastics_Gymnastics_40_47.jpg
+1
+587 68 81 98
+Ethnics/African/56_Voter_peoplevoting_56_796.jpg
+1
+394 133 220 262
+Pose/Normal/44_Aerobics_Aerobics_44_755.jpg
+1
+464 245 168 205
+Accessories/Yes/illumination_00089.jpg
+0
+Expression/Extreme/40_Gymnastics_Gymnastics_40_771.jpg
+1
+389 191 121 152
+Pose/Normal/31_Waiter_Waitress_Waiter_Waitress_31_722.jpg
+1
+467 77 159 205
+Expression/Normal/54_Rescue_rescuepeople_54_158.jpg
+1
+349 509 381 457
+Ethnics/African/snow_01788.jpg
+0
+Accessories/Yes/17_Ceremony_Ceremony_17_1037.jpg
+1
+450 189 202 230
+Pose/Normal/59_peopledrivingcar_peopledrivingcar_59_34.jpg
+1
+225 52 228 270
+Light/Regular/51_Dresses_wearingdress_51_348.jpg
+1
+478 112 130 163
+Accessories/No/illumination_03122.jpg
+1
+347 188 169 209
+Pose/Extreme/snow_02070.jpg
+1
+394 187 86 101
+Expression/Normal/illumination_00765.jpg
+1
+384 164 230 380
+Pose/Normal/9_Press_Conference_Press_Conference_9_595.jpg
+1
+291 211 275 357
+Accessories/Yes/16_Award_Ceremony_Awards_Ceremony_16_447.jpg
+1
+316 209 306 378
+Light/Regular/47_Matador_Bullfighter_Matador_Bullfighter_47_583.jpg
+1
+363 154 283 324
+Pose/Extreme/rain_00981.jpg
+0
+Light/Regular/47_Matador_Bullfighter_Matador_Bullfighter_47_703.jpg
+1
+475 119 127 164
+Expression/Normal/illumination_00770.jpg
+1
+361 319 379 515
+Pose/Normal/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_162.jpg
+1
+365 202 146 172
+Pose/Normal/9_Press_Conference_Press_Conference_9_615.jpg
+1
+365 133 268 349
+Light/Irregular/illumination_00606.jpg
+1
+458 188 270 359
+Light/Regular/0_Parade_Parade_0_757.jpg
+1
+230 93 221 250
+Light/Irregular/illumination_00355.jpg
+1
+894 197 148 193
+Ethnics/Asian/1_Handshaking_Handshaking_1_457.jpg
+0
+Pose/Extreme/illumination_00731.jpg
+1
+490 196 166 196
+Light/Irregular/illumination_00050.jpg
+0
+Pose/Extreme/illumination_00073.jpg
+0
+Expression/Normal/illumination_00063.jpg
+0
+Expression/Extreme/28_Sports_Fan_Sports_Fan_28_877.jpg
+1
+741 81 123 152
+Expression/Extreme/39_Ice_Skating_Ice_Skating_39_270.jpg
+1
+551 537 135 125
+Accessories/No/29_Students_Schoolkids_Students_Schoolkids_29_148.jpg
+1
+218 164 186 226
+Light/Irregular/44_Aerobics_Aerobics_44_650.jpg
+1
+217 84 314 430
+Ethnics/Asian/40_Gymnastics_Gymnastics_40_609.jpg
+0
+Ethnics/African/illumination_00576.jpg
+1
+256 181 86 125
+Pose/Normal/41_Swimming_Swimmer_41_831.jpg
+1
+468 140 176 229
+Expression/Normal/40_Gymnastics_Gymnastics_40_138.jpg
+1
+530 83 89 105
+Expression/Extreme/motion_02677.jpg
+1
+442 0 311 358
+Accessories/No/23_Shoppers_Shoppers_23_812.jpg
+1
+478 138 113 139
+Ethnics/Caucasian/illumination_00057.jpg
+0
+Pose/Extreme/54_Rescue_firemanrescue_54_153.jpg
+0
+Ethnics/African/28_Sports_Fan_Sports_Fan_28_792.jpg
+1
+371 128 166 197
+Light/Irregular/motion_02788.jpg
+1
+117 261 252 242
+Ethnics/Asian/motion_00892.jpg
+0
+Ethnics/Asian/rain_00006.jpg
+1
+469 184 83 101
+Ethnics/Caucasian/snow_01045.jpg
+1
+364 180 173 211
+Light/Regular/38_Tennis_Tennis_38_131.jpg
+1
+221 100 191 252
+Ethnics/African/18_Concerts_Concerts_18_433.jpg
+1
+591 151 224 280
+Pose/Normal/13_Interview_Interview_On_Location_13_282.jpg
+1
+655 68 178 220
+Accessories/No/9_Press_Conference_Press_Conference_9_784.jpg
+1
+228 206 320 362
+Ethnics/Asian/illumination_00317.jpg
+1
+511 89 183 271
+Ethnics/African/motion_00826.jpg
+0
+Ethnics/Caucasian/51_Dresses_wearingdress_51_113.jpg
+1
+333 69 143 178
+Ethnics/Caucasian/51_Dresses_wearingdress_51_17.jpg
+1
+659 95 184 241
+Accessories/Yes/53_Raid_policeraid_53_597.jpg
+1
+449 205 239 265
+Light/Regular/13_Interview_Interview_On_Location_13_478.jpg
+0
+Ethnics/Caucasian/41_Swimming_Swimmer_41_943.jpg
+0
+Light/Regular/31_Waiter_Waitress_Waiter_Waitress_31_517.jpg
+1
+354 118 124 174
+Expression/Extreme/13_Interview_Interview_On_Location_13_208.jpg
+1
+665 104 164 199
+Ethnics/African/30_Surgeons_Surgeons_30_932.jpg
+1
+377 160 267 350
+Expression/Extreme/snow_01032.jpg
+1
+261 224 86 93
+Ethnics/Asian/8_Election_Campain_Election_Campaign_8_451.jpg
+1
+446 171 249 235
+Ethnics/Caucasian/13_Interview_Interview_Sequences_13_11.jpg
+1
+279 56 177 186
+Light/Regular/51_Dresses_wearingdress_51_736.jpg
+1
+504 119 169 191
+Expression/Normal/16_Award_Ceremony_Awards_Ceremony_16_311.jpg
+1
+384 138 216 241
+Accessories/Yes/41_Swimming_Swimmer_41_831.jpg
+1
+468 140 176 229
+Expression/Normal/30_Surgeons_Surgeons_30_932.jpg
+1
+377 160 267 350
+Pose/Normal/illumination_00052.jpg
+0
+Light/Regular/31_Waiter_Waitress_Waiter_Waitress_31_720.jpg
+1
+562 15 221 274
+Accessories/No/haze_02450.jpg
+0
+Accessories/Yes/47_Matador_Bullfighter_matadorbullfighting_47_778.jpg
+1
+419 262 162 177
+Light/Regular/51_Dresses_wearingdress_51_398.jpg
+1
+386 269 361 427
+Pose/Extreme/rain_01152.jpg
+1
+571 167 123 187
+Light/Regular/54_Rescue_firemanrescue_54_327.jpg
+1
+363 205 275 378
+Light/Irregular/36_Football_americanfootball_ball_36_853.jpg
+1
+206 106 98 136
+Expression/Normal/54_Rescue_rescuepeople_54_531.jpg
+1
+359 143 219 268
+Ethnics/Asian/snow_01057.jpg
+1
+519 146 135 150
+Accessories/Yes/32_Worker_Laborer_Worker_Laborer_32_812.jpg
+2
+385 86 94 113
+442 442 156 197
+Accessories/No/illumination_00993.jpg
+0
+Accessories/No/snow_01078.jpg
+1
+535 84 91 116
+Expression/Normal/37_Soccer_soccer_ball_37_74.jpg
+1
+537 179 247 276
+Light/Irregular/haze_02480.jpg
+0
+Light/Regular/30_Surgeons_Surgeons_30_979.jpg
+1
+371 378 358 415
+Accessories/No/9_Press_Conference_Press_Conference_9_196.jpg
+0
+Ethnics/African/35_Basketball_basketballgame_ball_35_429.jpg
+1
+426 247 249 308
+Accessories/Yes/illumination_00275.jpg
+0
+Light/Regular/motion_00889.jpg
+1
+612 47 185 238
+Expression/Extreme/illumination_03148.jpg
+0
+Expression/Normal/13_Interview_Interview_Sequences_13_937.jpg
+2
+257 501 403 487
+276 283 397 429
+Pose/Extreme/motion_00892.jpg
+0
+Accessories/Yes/snow_01943.jpg
+1
+575 177 59 64
+Ethnics/Caucasian/16_Award_Ceremony_Awards_Ceremony_16_143.jpg
+1
+289 270 381 535
+Light/Regular/13_Interview_Interview_Sequences_13_121.jpg
+1
+419 161 251 323
+Accessories/No/13_Interview_Interview_On_Location_13_166.jpg
+1
+379 144 269 351
+Light/Irregular/illumination_00072.jpg
+0
+Pose/Normal/18_Concerts_Concerts_18_350.jpg
+1
+189 142 293 371
+Accessories/No/15_Stock_Market_Stock_Market_15_781.jpg
+1
+364 105 222 255
+Light/Regular/13_Interview_Interview_Sequences_13_937.jpg
+2
+257 501 403 487
+276 283 397 429
+Light/Irregular/illumination_02593.jpg
+1
+346 396 124 174
+Pose/Extreme/illumination_00310.jpg
+1
+378 164 155 174
+Expression/Normal/8_Election_Campain_Election_Campaign_8_120.jpg
+0
+Accessories/Yes/illumination_00701.jpg
+1
+356 133 331 458
+Expression/Extreme/rain_00115.jpg
+1
+524 148 261 346
+Ethnics/Caucasian/13_Interview_Interview_Sequences_13_764.jpg
+1
+407 110 225 274
+Light/Irregular/illumination_00278.jpg
+0
+Expression/Extreme/18_Concerts_Concerts_18_381.jpg
+1
+333 94 103 126
+Pose/Extreme/16_Award_Ceremony_Awards_Ceremony_16_750.jpg
+1
+391 148 184 260
+Expression/Extreme/2_Demonstration_Demonstration_Or_Protest_2_924.jpg
+1
+664 111 178 198
+Light/Regular/13_Interview_Interview_On_Location_13_773.jpg
+0
+Ethnics/Caucasian/46_Jockey_Jockey_46_497.jpg
+1
+451 209 304 329
+Light/Regular/15_Stock_Market_Stock_Market_15_846.jpg
+1
+303 256 393 578
+Pose/Extreme/snow_01093.jpg
+1
+511 191 95 120
+Expression/Normal/7_Cheering_Cheering_7_239.jpg
+1
+326 203 252 293
+Expression/Extreme/7_Cheering_Cheering_7_655.jpg
+1
+390 782 241 314
+Light/Irregular/illumination_00385.jpg
+0
+Pose/Extreme/0_Parade_marchingband_1_818.jpg
+0
+Expression/Normal/44_Aerobics_Aerobics_44_1032.jpg
+1
+329 283 334 403
+Light/Regular/41_Swimming_Swimmer_41_773.jpg
+0
+Expression/Extreme/38_Tennis_Tennis_38_666.jpg
+1
+372 153 121 152
+Ethnics/Asian/illumination_00045.jpg
+0
+Pose/Extreme/illumination_03410.jpg
+0
+Accessories/Yes/52_Photographers_taketouristphotos_52_86.jpg
+1
+417 349 87 108
+Ethnics/Asian/39_Ice_Skating_Ice_Skating_39_611.jpg
+1
+333 67 83 96
+Pose/Extreme/snow_01798.jpg
+0
+Accessories/No/13_Interview_Interview_Sequences_13_135.jpg
+1
+357 79 170 201
+Pose/Normal/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_852.jpg
+1
+439 193 169 200
+Expression/Normal/illumination_00335.jpg
+0
+Ethnics/Asian/8_Election_Campain_Election_Campaign_8_553.jpg
+1
+434 113 116 146
+Light/Regular/49_Greeting_peoplegreeting_49_783.jpg
+1
+254 137 236 280
+Expression/Normal/illumination_00312.jpg
+0
+Accessories/Yes/21_Festival_Festival_21_660.jpg
+1
+404 357 318 391
+Light/Irregular/illumination_00573.jpg
+1
+405 296 221 391
+Accessories/Yes/41_Swimming_Swimming_41_74.jpg
+1
+420 187 129 150
+Expression/Normal/snow_01776.jpg
+1
+250 70 117 137
+Expression/Normal/9_Press_Conference_Press_Conference_9_632.jpg
+1
+204 580 431 467
+Light/Irregular/33_Running_Running_33_332.jpg
+1
+587 34 158 215
+Expression/Extreme/snow_01047.jpg
+2
+293 140 121 141
+803 252 50 70
+Light/Irregular/illumination_03129.jpg
+1
+403 194 121 144
+Accessories/Yes/57_Angler_peoplefishing_57_589.jpg
+0
+Accessories/Yes/11_Meeting_Meeting_11_Meeting_Meeting_11_865.jpg
+1
+364 385 325 406
+Pose/Normal/9_Press_Conference_Press_Conference_9_607.jpg
+1
+327 176 262 314
+Expression/Extreme/40_Gymnastics_Gymnastics_40_740.jpg
+1
+389 781 241 310
+Pose/Normal/51_Dresses_wearingdress_51_670.jpg
+1
+324 148 235 267
+Accessories/No/31_Waiter_Waitress_Waiter_Waitress_31_915.jpg
+1
+460 195 118 156
+Pose/Extreme/47_Matador_Bullfighter_Matador_Bullfighter_47_610.jpg
+0
+Ethnics/Caucasian/30_Surgeons_Surgeons_30_862.jpg
+1
+428 177 227 268
+Accessories/Yes/illumination_00283.jpg
+0
+Ethnics/Caucasian/9_Press_Conference_Press_Conference_9_552.jpg
+1
+387 132 251 320
+Accessories/No/9_Press_Conference_Press_Conference_9_43.jpg
+1
+406 71 128 185
+Light/Irregular/haze_02405.jpg
+1
+431 241 114 132
+Expression/Extreme/56_Voter_peoplevoting_56_323.jpg
+1
+337 161 256 316
+Ethnics/Caucasian/45_Balloonist_Balloonist_45_142.jpg
+1
+163 316 163 194
+Ethnics/African/56_Voter_peoplevoting_56_887.jpg
+1
+538 240 153 195
+Light/Irregular/haze_02459.jpg
+0
+Pose/Extreme/focus_00223.jpg
+0
+Pose/Extreme/27_Spa_Spa_27_157.jpg
+0
+Ethnics/African/40_Gymnastics_Gymnastics_40_389.jpg
+1
+489 520 144 199
+Ethnics/African/18_Concerts_Concerts_18_655.jpg
+1
+245 204 283 362
+Pose/Normal/6_Funeral_Funeral_6_861.jpg
+1
+352 288 340 370
+Light/Irregular/47_Matador_Bullfighter_matadorbullfighting_47_812.jpg
+1
+476 332 90 112
+Accessories/No/46_Jockey_Jockey_46_172.jpg
+2
+824 171 122 144
+393 198 183 254
+Accessories/No/41_Swimming_Swimmer_41_262.jpg
+1
+565 341 386 431
+Accessories/Yes/illumination_00774.jpg
+0
+Light/Irregular/lens_00205.jpg
+1
+446 451 444 547
+Ethnics/African/13_Interview_Interview_On_Location_13_208.jpg
+1
+665 104 164 199
+Accessories/No/54_Rescue_rescuepeople_54_158.jpg
+1
+349 509 381 457
+Expression/Normal/21_Festival_Festival_21_462.jpg
+1
+410 152 128 171
+Accessories/No/13_Interview_Interview_On_Location_13_559.jpg
+1
+534 211 92 122
+Ethnics/African/15_Stock_Market_Stock_Market_15_301.jpg
+1
+162 86 124 198
+Accessories/No/49_Greeting_peoplegreeting_49_890.jpg
+0
+Pose/Normal/illumination_00387.jpg
+1
+574 132 164 192
+Pose/Extreme/41_Swimming_Swimmer_41_293.jpg
+0
+Expression/Normal/illumination_03115.jpg
+0
+Ethnics/Asian/2_Demonstration_Demonstrators_2_700.jpg
+1
+252 144 94 118
+Ethnics/Asian/17_Ceremony_Ceremony_17_444.jpg
+1
+315 235 367 483
+Accessories/Yes/16_Award_Ceremony_Awards_Ceremony_16_566.jpg
+1
+278 273 357 448
+Pose/Extreme/40_Gymnastics_Gymnastics_40_364.jpg
+0
+Pose/Extreme/illumination_00271.jpg
+1
+321 122 157 175
+Light/Irregular/59_peopledrivingcar_peopledrivingcar_59_64.jpg
+1
+528 153 170 183
+Accessories/No/snow_01959.jpg
+1
+349 187 172 178
+Light/Irregular/illumination_03133.jpg
+0
+Pose/Normal/41_Swimming_Swimmer_41_931.jpg
+1
+381 160 182 230
+Light/Irregular/illumination_00752.jpg
+0
+Expression/Normal/2_Demonstration_Political_Rally_2_566.jpg
+1
+394 227 329 426
+Light/Irregular/illumination_00332.jpg
+0
+Pose/Normal/12_Group_Large_Group_12_Group_Large_Group_12_771.jpg
+1
+183 204 366 427
+Pose/Normal/51_Dresses_wearingdress_51_113.jpg
+1
+333 69 143 178
+Ethnics/Asian/motion_00819.jpg
+0
+Ethnics/Asian/39_Ice_Skating_Ice_Skating_39_486.jpg
+1
+461 324 151 167
+Accessories/No/illumination_00353.jpg
+1
+157 116 190 150
+Light/Regular/9_Press_Conference_Press_Conference_9_883.jpg
+1
+254 195 320 364
+Expression/Extreme/18_Concerts_Concerts_18_828.jpg
+1
+602 249 116 145
+Pose/Normal/lens_00124.jpg
+0
+Ethnics/Caucasian/28_Sports_Fan_Sports_Fan_28_877.jpg
+1
+741 81 123 152
+Accessories/Yes/snow_01828.jpg
+1
+399 131 167 181
+Accessories/Yes/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_852.jpg
+1
+439 193 169 200
+Accessories/No/59_peopledrivingcar_peopledrivingcar_59_95.jpg
+1
+569 177 161 170
+Ethnics/Asian/illumination_00312.jpg
+0
+Ethnics/Asian/rain_01179.jpg
+1
+696 252 160 186
+Accessories/No/59_peopledrivingcar_peopledrivingcar_59_229.jpg
+1
+646 175 189 233
+Light/Regular/snow_01020.jpg
+1
+338 114 84 106
+Ethnics/Caucasian/16_Award_Ceremony_Awards_Ceremony_16_64.jpg
+1
+425 224 236 294
+Ethnics/Asian/15_Stock_Market_Stock_Market_15_731.jpg
+1
+498 333 265 375
+Ethnics/Asian/illumination_00695.jpg
+1
+486 166 187 234
+Light/Irregular/illumination_00387.jpg
+1
+574 132 164 192
+Ethnics/African/23_Shoppers_Shoppers_23_854.jpg
+1
+305 143 275 351
+Light/Irregular/53_Raid_policeraid_53_597.jpg
+1
+449 205 239 265
+Expression/Extreme/8_Election_Campain_Election_Campaign_8_451.jpg
+1
+446 171 249 235
+Accessories/Yes/3_Riot_Riot_3_963.jpg
+1
+309 269 376 475
+Expression/Normal/1_Handshaking_Handshaking_1_94.jpg
+1
+380 243 241 309
+Light/Regular/27_Spa_Spa_27_360.jpg
+0
+Pose/Extreme/39_Ice_Skating_iceskiing_39_819.jpg
+1
+283 268 86 94
+Pose/Extreme/44_Aerobics_Aerobics_44_610.jpg
+1
+378 102 100 127
+Pose/Extreme/illumination_00577.jpg
+0
+Accessories/No/51_Dresses_wearingdress_51_96.jpg
+1
+385 360 251 284
+Expression/Normal/46_Jockey_Jockey_46_259.jpg
+1
+537 26 161 215
+Accessories/No/13_Interview_Interview_On_Location_13_208.jpg
+1
+665 104 164 199
+Expression/Extreme/41_Swimming_Swimmer_41_26.jpg
+1
+567 185 237 239
+Accessories/Yes/41_Swimming_Swimmer_41_369.jpg
+1
+251 200 160 185
+Light/Irregular/18_Concerts_Concerts_18_555.jpg
+1
+314 118 340 424
+Light/Regular/7_Cheering_Cheering_7_739.jpg
+1
+432 308 304 402
+Expression/Normal/40_Gymnastics_Gymnastics_40_161.jpg
+0
+Pose/Extreme/40_Gymnastics_Gymnastics_40_161.jpg
+0
+Expression/Normal/15_Stock_Market_Stock_Market_15_781.jpg
+1
+364 105 222 255
+Ethnics/Caucasian/13_Interview_Interview_On_Location_13_225.jpg
+1
+406 155 176 208
+Pose/Normal/28_Sports_Fan_Sports_Fan_28_656.jpg
+1
+337 242 383 487
+Accessories/No/54_Rescue_rescuepeople_54_738.jpg
+1
+499 535 238 317
+Light/Regular/9_Press_Conference_Press_Conference_9_945.jpg
+1
+236 263 402 552
+Expression/Extreme/41_Swimming_Swimmer_41_440.jpg
+1
+423 130 185 251
+Expression/Extreme/21_Festival_Festival_21_354.jpg
+1
+307 175 313 382
+Expression/Normal/9_Press_Conference_Press_Conference_9_828.jpg
+1
+327 480 449 519
+Accessories/No/1_Handshaking_Handshaking_1_94.jpg
+1
+380 243 241 309
+Ethnics/Asian/31_Waiter_Waitress_Waiter_Waitress_31_932.jpg
+1
+470 302 107 134
+Accessories/Yes/51_Dresses_wearingdress_51_17.jpg
+1
+659 95 184 241
+Expression/Normal/illumination_00708.jpg
+0
+Expression/Normal/6_Funeral_Funeral_6_1005.jpg
+1
+485 169 119 144
+Expression/Extreme/38_Tennis_Tennis_38_230.jpg
+1
+314 173 165 164
+Pose/Extreme/illumination_00336.jpg
+1
+488 180 112 125
+Light/Regular/29_Students_Schoolkids_Students_Schoolkids_29_148.jpg
+1
+218 164 186 226
+Accessories/No/0_Parade_Parade_0_757.jpg
+1
+230 93 221 250
+Expression/Extreme/41_Swimming_Swimmer_41_43.jpg
+0
+Ethnics/Asian/30_Surgeons_Surgeons_30_861.jpg
+1
+336 301 390 532
+Ethnics/African/10_People_Marching_People_Marching_2_638.jpg
+1
+405 272 278 338
+Pose/Normal/41_Swimming_Swimmer_41_711.jpg
+1
+286 206 247 289
+Expression/Extreme/13_Interview_Interview_On_Location_13_426.jpg
+2
+164 308 96 116
+301 284 94 120
+Light/Regular/46_Jockey_Jockey_46_823.jpg
+1
+395 4 308 346
+Pose/Normal/illumination_00057.jpg
+0
+Accessories/Yes/6_Funeral_Funeral_6_937.jpg
+1
+307 220 311 370
+Accessories/Yes/13_Interview_Interview_Sequences_13_779.jpg
+1
+390 176 274 402
+Pose/Normal/40_Gymnastics_Gymnastics_40_57.jpg
+1
+528 195 170 207
+Accessories/Yes/9_Press_Conference_Press_Conference_9_432.jpg
+1
+431 185 258 340
+Ethnics/Caucasian/13_Interview_Interview_Sequences_13_1032.jpg
+1
+377 152 236 270
+Light/Regular/9_Press_Conference_Press_Conference_9_748.jpg
+1
+302 237 386 504
+Expression/Normal/illumination_00064.jpg
+1
+431 243 132 178
+Light/Regular/illumination_00998.jpg
+0
+Expression/Extreme/41_Swimming_Swimmer_41_55.jpg
+0
+Light/Irregular/illumination_03112.jpg
+0
+Pose/Normal/16_Award_Ceremony_Awards_Ceremony_16_591.jpg
+1
+354 252 316 397
+Pose/Extreme/29_Students_Schoolkids_Students_Schoolkids_29_436.jpg
+1
+325 172 167 157
+Pose/Extreme/motion_02713.jpg
+0
+Light/Irregular/illumination_00695.jpg
+1
+486 166 187 234
+Accessories/Yes/21_Festival_Festival_21_881.jpg
+0
+Light/Regular/56_Voter_peoplevoting_56_712.jpg
+1
+186 60 161 197
+Accessories/Yes/focus_00021.jpg
+0
+Light/Irregular/motion_02703.jpg
+0
+Pose/Extreme/rain_00923.jpg
+0
+Ethnics/Caucasian/16_Award_Ceremony_Awards_Ceremony_16_447.jpg
+1
+316 209 306 378
+Pose/Extreme/43_Row_Boat_Canoe_43_565.jpg
+0
+Accessories/No/15_Stock_Market_Stock_Market_15_846.jpg
+1
+303 256 393 578
+Pose/Normal/41_Swimming_Swimming_41_275.jpg
+1
+427 316 173 209
+Expression/Extreme/18_Concerts_Concerts_18_815.jpg
+1
+305 43 167 199
+Ethnics/Asian/focus_00245.jpg
+0
+Accessories/Yes/19_Couple_Couple_19_509.jpg
+0
+Accessories/Yes/snow_01751.jpg
+1
+560 144 118 154
+Ethnics/African/9_Press_Conference_Press_Conference_9_767.jpg
+1
+299 205 347 464
+Ethnics/African/54_Rescue_rescuepeople_54_531.jpg
+1
+359 143 219 268
+Pose/Normal/36_Football_americanfootball_ball_36_681.jpg
+1
+429 147 146 172
+Ethnics/African/36_Football_americanfootball_ball_36_681.jpg
+1
+429 147 146 172
+Ethnics/African/34_Baseball_Baseball_34_580.jpg
+1
+437 117 163 219
+Pose/Normal/illumination_00042.jpg
+0
+Ethnics/African/27_Spa_Spa_27_329.jpg
+1
+458 82 345 420
+Expression/Normal/30_Surgeons_Surgeons_30_988.jpg
+1
+359 381 443 560
+Light/Regular/13_Interview_Interview_On_Location_13_247.jpg
+1
+344 105 229 276
+Light/Irregular/illumination_00084.jpg
+0
+Expression/Extreme/47_Matador_Bullfighter_Matador_Bullfighter_47_254.jpg
+1
+455 93 125 153
+Pose/Normal/31_Waiter_Waitress_Waiter_Waitress_31_34.jpg
+1
+427 94 170 210
+Accessories/Yes/snow_01034.jpg
+1
+393 319 180 234
+Pose/Normal/9_Press_Conference_Press_Conference_9_431.jpg
+1
+297 287 345 421
+Light/Regular/57_Angler_peoplefishing_57_796.jpg
+1
+386 298 195 240
+Light/Irregular/illumination_00042.jpg
+0
+Light/Regular/51_Dresses_wearingdress_51_386.jpg
+1
+367 232 356 497
+Expression/Extreme/focus_00254.jpg
+0
+Ethnics/African/32_Worker_Laborer_Worker_Laborer_32_494.jpg
+1
+338 238 361 492
+Accessories/No/47_Matador_Bullfighter_Matador_Bullfighter_47_617.jpg
+1
+240 286 341 372
+Ethnics/Caucasian/52_Photographers_taketouristphotos_52_97.jpg
+1
+821 612 49 58
+Expression/Extreme/rain_01246.jpg
+1
+218 167 166 197
+Expression/Normal/30_Surgeons_Surgeons_30_862.jpg
+1
+428 177 227 268
+Light/Regular/13_Interview_Interview_2_People_Visible_13_260.jpg
+1
+357 490 425 449
+Accessories/Yes/illumination_00050.jpg
+0
+Light/Irregular/motion_02676.jpg
+0
+Pose/Extreme/motion_02774.jpg
+0
+Ethnics/Asian/57_Angler_peoplefishing_57_926.jpg
+1
+402 138 119 142
+Ethnics/Asian/52_Photographers_taketouristphotos_52_536.jpg
+1
+520 245 128 194
+Expression/Normal/59_peopledrivingcar_peopledrivingcar_59_906.jpg
+1
+265 423 265 331
+Pose/Extreme/15_Stock_Market_Stock_Market_15_676.jpg
+1
+24 87 293 445
+Light/Regular/46_Jockey_Jockey_46_172.jpg
+2
+824 171 122 144
+393 198 183 254
+Pose/Normal/2_Demonstration_Political_Rally_2_884.jpg
+1
+125 225 170 196
+Expression/Extreme/motion_02651.jpg
+1
+485 196 190 218
+Light/Irregular/illumination_03135.jpg
+0
+Accessories/Yes/42_Car_Racing_Nascar_42_468.jpg
+1
+610 48 170 183
+Accessories/Yes/56_Voter_peoplevoting_56_953.jpg
+1
+377 146 136 180
+Accessories/No/16_Award_Ceremony_Awards_Ceremony_16_474.jpg
+1
+359 257 352 441
+Expression/Extreme/41_Swimming_Swimming_41_283.jpg
+1
+699 200 118 147
+Expression/Normal/illumination_00336.jpg
+1
+488 180 112 125
+Ethnics/African/focus_00258.jpg
+1
+558 190 179 205
+Expression/Normal/28_Sports_Fan_Sports_Fan_28_866.jpg
+1
+451 134 118 147
+Expression/Extreme/47_Matador_Bullfighter_Matador_Bullfighter_47_636.jpg
+0
+Accessories/No/46_Jockey_Jockey_46_758.jpg
+1
+346 138 247 311
+Ethnics/Caucasian/30_Surgeons_Surgeons_30_486.jpg
+1
+366 180 318 418
+Pose/Normal/46_Jockey_Jockey_46_497.jpg
+1
+451 209 304 329
+Pose/Extreme/rain_01281.jpg
+1
+619 416 130 152
+Expression/Extreme/41_Swimming_Swimmer_41_507.jpg
+0
+Light/Irregular/rain_02489.jpg
+1
+356 194 158 207
+Expression/Extreme/motion_02719.jpg
+0
+Ethnics/Caucasian/49_Greeting_peoplegreeting_49_589.jpg
+1
+278 204 270 344
+Pose/Normal/13_Interview_Interview_On_Location_13_56.jpg
+1
+470 205 96 136
+Accessories/No/9_Press_Conference_Press_Conference_9_849.jpg
+1
+298 412 401 559
+Expression/Extreme/51_Dresses_wearingdress_51_94.jpg
+1
+215 18 122 148
+Accessories/Yes/46_Jockey_Jockey_46_652.jpg
+1
+269 235 102 131
+Ethnics/African/41_Swimming_Swimming_41_161.jpg
+0
+Expression/Normal/40_Gymnastics_Gymnastics_40_805.jpg
+1
+469 793 191 225
+Accessories/No/32_Worker_Laborer_Worker_Laborer_32_116.jpg
+1
+203 82 92 113
+Accessories/No/13_Interview_Interview_Sequences_13_691.jpg
+2
+316 206 316 373
+309 9 323 360
+Accessories/Yes/36_Football_americanfootball_ball_36_647.jpg
+0
+Pose/Extreme/25_Soldier_Patrol_Soldier_Patrol_25_169.jpg
+1
+300 129 63 79
+Pose/Extreme/24_Soldier_Firing_Soldier_Firing_24_372.jpg
+0
+Pose/Extreme/41_Swimming_Swimmer_41_308.jpg
+0
+Pose/Normal/13_Interview_Interview_2_People_Visible_13_241.jpg
+1
+425 103 127 181
+Pose/Normal/30_Surgeons_Surgeons_30_486.jpg
+1
+366 180 318 418
+Expression/Extreme/illumination_00763.jpg
+1
+499 225 64 88
+Light/Regular/45_Balloonist_Balloonist_45_217.jpg
+1
+576 358 278 356
+Accessories/No/9_Press_Conference_Press_Conference_9_658.jpg
+1
+249 209 337 438
+Light/Regular/15_Stock_Market_Stock_Market_15_526.jpg
+1
+591 111 123 151
+Accessories/No/47_Matador_Bullfighter_Matador_Bullfighter_47_703.jpg
+1
+475 119 127 164
+Expression/Extreme/snow_00475.jpg
+1
+480 161 119 168
+Expression/Normal/35_Basketball_basketballgame_ball_35_429.jpg
+1
+426 247 249 308
+Light/Regular/49_Greeting_peoplegreeting_49_589.jpg
+1
+278 204 270 344
+Light/Irregular/illumination_00316.jpg
+0
+Ethnics/Caucasian/snow_01122.jpg
+0
+Pose/Normal/9_Press_Conference_Press_Conference_9_252.jpg
+1
+323 273 345 386
+Expression/Extreme/46_Jockey_Jockey_46_106.jpg
+1
+417 148 109 121
+Expression/Extreme/41_Swimming_Swimming_41_714.jpg
+0
+Expression/Normal/9_Press_Conference_Press_Conference_9_872.jpg
+1
+397 325 241 273
+Accessories/Yes/illumination_03102.jpg
+2
+443 532 198 256
+554 1093 25 30
+Expression/Extreme/snow_00476.jpg
+0
+Accessories/No/9_Press_Conference_Press_Conference_9_767.jpg
+1
+299 205 347 464
+Ethnics/Caucasian/lens_02609.jpg
+1
+639 315 174 248
+Expression/Extreme/40_Gymnastics_Gymnastics_40_762.jpg
+0
+Pose/Normal/28_Sports_Fan_Sports_Fan_28_723.jpg
+0
+Light/Regular/28_Sports_Fan_Sports_Fan_28_877.jpg
+1
+741 81 123 152
+Light/Irregular/illumination_00054.jpg
+0
+Pose/Normal/47_Matador_Bullfighter_matadorbullfighting_47_778.jpg
+1
+419 262 162 177
+Pose/Extreme/37_Soccer_soccer_ball_37_150.jpg
+0
+Light/Regular/9_Press_Conference_Press_Conference_9_828.jpg
+1
+327 480 449 519
+Expression/Normal/50_Celebration_Or_Party_houseparty_50_749.jpg
+1
+331 114 141 186
+Accessories/No/1_Handshaking_Handshaking_1_35.jpg
+1
+426 132 226 270
+Expression/Extreme/52_Photographers_photographertakingphoto_52_807.jpg
+2
+363 -6 437 533
+415 288 409 470
+Expression/Normal/28_Sports_Fan_Sports_Fan_28_656.jpg
+1
+337 242 383 487
+Pose/Normal/16_Award_Ceremony_Awards_Ceremony_16_467.jpg
+1
+311 338 372 478
+Accessories/Yes/61_Street_Battle_streetfight_61_407.jpg
+1
+357 167 166 197
+Accessories/Yes/illumination_00575.jpg
+1
+712 256 170 214
+Ethnics/Asian/illumination_03122.jpg
+1
+347 188 169 209
+Pose/Extreme/39_Ice_Skating_Ice_Skating_39_458.jpg
+0
+Light/Irregular/rain_01246.jpg
+1
+218 167 166 197
+Pose/Normal/16_Award_Ceremony_Awards_Ceremony_16_135.jpg
+1
+360 144 258 317
+Pose/Normal/59_peopledrivingcar_peopledrivingcar_59_85.jpg
+1
+404 182 179 218
+Pose/Normal/7_Cheering_Cheering_7_655.jpg
+1
+390 782 241 314
+Accessories/Yes/illumination_00340.jpg
+0
+Light/Irregular/snow_01059.jpg
+0
+Accessories/Yes/41_Swimming_Swimming_41_52.jpg
+0
+Ethnics/Asian/31_Waiter_Waitress_Waiter_Waitress_31_722.jpg
+1
+467 77 159 205
+Pose/Extreme/rain_01206.jpg
+0
+Pose/Normal/55_Sports_Coach_Trainer_sportcoaching_55_894.jpg
+1
+427 36 183 226
+Ethnics/Caucasian/57_Angler_peoplefishing_57_868.jpg
+1
+629 689 185 217
+Accessories/No/9_Press_Conference_Press_Conference_9_945.jpg
+1
+236 263 402 552
+Accessories/Yes/2_Demonstration_Political_Rally_2_172.jpg
+1
+450 338 298 426
+Light/Regular/32_Worker_Laborer_Worker_Laborer_32_468.jpg
+0
+Accessories/Yes/28_Sports_Fan_Sports_Fan_28_880.jpg
+1
+421 87 169 225
+Ethnics/Asian/51_Dresses_wearingdress_51_139.jpg
+1
+461 76 144 173
+Ethnics/African/36_Football_americanfootball_ball_36_853.jpg
+1
+206 106 98 136
+Pose/Extreme/illumination_00606.jpg
+1
+458 188 270 359
+Accessories/No/9_Press_Conference_Press_Conference_9_828.jpg
+1
+327 480 449 519
+Accessories/No/illumination_00343.jpg
+0
+Pose/Normal/41_Swimming_Swimmer_41_440.jpg
+1
+423 130 185 251
+Ethnics/African/32_Worker_Laborer_Worker_Laborer_32_594.jpg
+1
+656 161 62 78
+Light/Irregular/snow_01751.jpg
+1
+560 144 118 154
+Accessories/No/2_Demonstration_Political_Rally_2_219.jpg
+1
+345 203 346 489
+Ethnics/Caucasian/13_Interview_Interview_On_Location_13_166.jpg
+1
+379 144 269 351
+Expression/Normal/30_Surgeons_Surgeons_30_861.jpg
+1
+336 301 390 532
+Ethnics/Asian/41_Swimming_Swimmer_41_471.jpg
+1
+463 101 127 166
+Expression/Normal/13_Interview_Interview_On_Location_13_728.jpg
+1
+102 511 425 444
+Ethnics/African/1_Handshaking_Handshaking_1_766.jpg
+1
+385 119 257 350
+Accessories/No/13_Interview_Interview_Sequences_13_456.jpg
+0
+Ethnics/Caucasian/13_Interview_Interview_2_People_Visible_13_239.jpg
+1
+549 99 217 287
+Ethnics/Asian/illumination_00374.jpg
+1
+333 110 88 107
+Light/Irregular/motion_02677.jpg
+1
+442 0 311 358
+Light/Irregular/motion_02722.jpg
+0
+Expression/Extreme/rain_02488.jpg
+1
+724 139 15 19
+Ethnics/Asian/snow_01751.jpg
+1
+560 144 118 154
+Light/Irregular/illumination_00070.jpg
+0
+Pose/Normal/13_Interview_Interview_Sequences_13_778.jpg
+1
+401 172 257 311
+Expression/Normal/illumination_00293.jpg
+0
+Expression/Normal/41_Swimming_Swimmer_41_275.jpg
+0
+Pose/Normal/7_Cheering_Cheering_7_835.jpg
+1
+331 208 337 366
+Light/Irregular/illumination_03104.jpg
+0
+Light/Irregular/illumination_03145.jpg
+1
+117 712 351 466
+Expression/Extreme/snow_01078.jpg
+1
+535 84 91 116
+Ethnics/Caucasian/9_Press_Conference_Press_Conference_9_615.jpg
+1
+365 133 268 349
+Accessories/Yes/illumination_00606.jpg
+1
+458 188 270 359
+Pose/Extreme/27_Spa_Spa_27_360.jpg
+0
+Expression/Extreme/59_peopledrivingcar_peopledrivingcar_59_85.jpg
+1
+404 182 179 218
+Pose/Extreme/47_Matador_Bullfighter_Matador_Bullfighter_47_171.jpg
+0
+Light/Regular/13_Interview_Interview_On_Location_13_728.jpg
+1
+102 511 425 444
+Expression/Normal/haze_02483.jpg
+0
+Pose/Normal/13_Interview_Interview_Sequences_13_121.jpg
+1
+419 161 251 323
+Accessories/Yes/41_Swimming_Swimming_41_106.jpg
+0
+Ethnics/Caucasian/42_Car_Racing_Nascar_42_900.jpg
+2
+679 -9 308 389
+415 213 290 328
+Ethnics/Asian/1_Handshaking_Handshaking_1_275.jpg
+1
+428 249 237 268
+Pose/Normal/55_Sports_Coach_Trainer_sportcoaching_55_721.jpg
+1
+339 389 416 522
+Accessories/No/snow_00171.jpg
+1
+405 716 242 323
+Accessories/Yes/51_Dresses_wearingdress_51_741.jpg
+1
+297 266 378 448
+Pose/Normal/rain_00936.jpg
+0
+Expression/Normal/lens_00124.jpg
+0
+Ethnics/Asian/23_Shoppers_Shoppers_23_167.jpg
+0
+Accessories/Yes/41_Swimming_Swimming_41_275.jpg
+1
+427 316 173 209
+Expression/Extreme/motion_02746.jpg
+0
+Pose/Extreme/40_Gymnastics_Gymnastics_40_612.jpg
+1
+306 203 97 111
+Ethnics/African/25_Soldier_Patrol_Soldier_Patrol_25_993.jpg
+1
+179 54 118 156
+Accessories/No/18_Concerts_Concerts_18_655.jpg
+1
+245 204 283 362
+Ethnics/African/18_Concerts_Concerts_18_706.jpg
+1
+453 208 211 243
+Light/Regular/54_Rescue_rescuepeople_54_531.jpg
+1
+359 143 219 268
+Pose/Normal/38_Tennis_Tennis_38_182.jpg
+1
+248 114 177 211
+Ethnics/Caucasian/snow_00408.jpg
+1
+590 162 96 119
+Ethnics/Asian/lens_00205.jpg
+1
+446 451 444 547
+Expression/Extreme/rain_02358.jpg
+1
+359 94 90 109
+Expression/Normal/41_Swimming_Swimmer_41_701.jpg
+0
+Expression/Extreme/35_Basketball_playingbasketball_35_251.jpg
+1
+430 115 95 139
+Light/Irregular/illumination_00076.jpg
+0
+Accessories/No/9_Press_Conference_Press_Conference_9_933.jpg
+1
+320 273 389 550
+Pose/Extreme/37_Soccer_soccer_ball_37_512.jpg
+1
+493 67 81 102
+Ethnics/Asian/31_Waiter_Waitress_Waiter_Waitress_31_769.jpg
+1
+419 79 159 171
+Light/Irregular/illumination_00384.jpg
+0
+Pose/Normal/41_Swimming_Swimming_41_580.jpg
+1
+452 142 165 192
+Pose/Extreme/illumination_00055.jpg
+0
+Expression/Normal/13_Interview_Interview_Sequences_13_270.jpg
+1
+338 217 299 386
+Pose/Extreme/motion_02783.jpg
+1
+113 538 269 367
+Accessories/No/32_Worker_Laborer_Worker_Laborer_32_1039.jpg
+1
+569 336 243 273
+Pose/Extreme/motion_00826.jpg
+0
+Ethnics/Caucasian/30_Surgeons_Surgeons_30_865.jpg
+1
+694 -2 104 129
+Ethnics/African/27_Spa_Spa_27_512.jpg
+1
+361 633 78 92
+Ethnics/African/51_Dresses_wearingdress_51_398.jpg
+1
+386 269 361 427
+Pose/Extreme/illumination_00341.jpg
+0
+Ethnics/Caucasian/rain_02196.jpg
+1
+354 277 169 217
+Pose/Normal/52_Photographers_photographertakingphoto_52_776.jpg
+0
+Accessories/No/snow_00180.jpg
+1
+464 120 82 93
+Light/Regular/44_Aerobics_Aerobics_44_937.jpg
+1
+292 179 278 326
+Expression/Normal/29_Students_Schoolkids_Students_Schoolkids_29_380.jpg
+1
+408 193 132 164
+Accessories/No/21_Festival_Festival_21_462.jpg
+1
+410 152 128 171
+Expression/Normal/13_Interview_Interview_On_Location_13_166.jpg
+1
+379 144 269 351
+Light/Regular/16_Award_Ceremony_Awards_Ceremony_16_64.jpg
+1
+425 224 236 294
+Expression/Extreme/40_Gymnastics_Gymnastics_40_609.jpg
+0
+Accessories/Yes/focus_02564.jpg
+1
+311 271 331 347
+Light/Regular/18_Concerts_Concerts_18_784.jpg
+1
+276 243 323 417
+Pose/Extreme/illumination_00357.jpg
+0
+Expression/Extreme/41_Swimming_Swimming_41_641.jpg
+1
+462 3 249 303
+Expression/Extreme/rain_00920.jpg
+1
+409 38 124 171
+Accessories/Yes/31_Waiter_Waitress_Waiter_Waitress_31_410.jpg
+1
+463 95 122 158
+Accessories/No/illumination_00067.jpg
+0
+Light/Irregular/illumination_00368.jpg
+0
+Light/Irregular/illumination_00386.jpg
+0
+Expression/Normal/31_Waiter_Waitress_Waiter_Waitress_31_927.jpg
+1
+422 216 236 298
+Ethnics/Asian/illumination_00556.jpg
+1
+622 136 154 163
+Expression/Extreme/rain_00007.jpg
+0
+Light/Irregular/illumination_00310.jpg
+1
+378 164 155 174
+Accessories/Yes/28_Sports_Fan_Sports_Fan_28_144.jpg
+0
+Ethnics/African/37_Soccer_Soccer_37_52.jpg
+1
+378 446 64 82
+Light/Irregular/illumination_00090.jpg
+0
+Ethnics/Caucasian/13_Interview_Interview_On_Location_13_56.jpg
+1
+470 205 96 136
+Pose/Normal/illumination_00581.jpg
+1
+515 107 245 306
+Pose/Normal/39_Ice_Skating_Ice_Skating_39_611.jpg
+1
+333 67 83 96
+Accessories/No/35_Basketball_playingbasketball_35_91.jpg
+1
+277 424 320 366
+Ethnics/Asian/46_Jockey_Jockey_46_409.jpg
+1
+421 111 85 100
+Light/Regular/38_Tennis_Tennis_38_332.jpg
+0
+Expression/Normal/41_Swimming_Swimmer_41_931.jpg
+1
+381 160 182 230
+Light/Irregular/illumination_00058.jpg
+1
+327 197 326 365
+Pose/Extreme/13_Interview_Interview_Sequences_13_586.jpg
+0
+Accessories/Yes/41_Swimming_Swimming_41_641.jpg
+1
+462 3 249 303
+Pose/Normal/9_Press_Conference_Press_Conference_9_632.jpg
+1
+204 580 431 467
+Expression/Extreme/55_Sports_Coach_Trainer_sportcoaching_55_1027.jpg
+1
+598 58 121 156
+Pose/Normal/15_Stock_Market_Stock_Market_15_846.jpg
+1
+303 256 393 578
+Pose/Normal/16_Award_Ceremony_Awards_Ceremony_16_143.jpg
+1
+289 270 381 535
+Ethnics/African/32_Worker_Laborer_Worker_Laborer_32_624.jpg
+0
+Expression/Extreme/snow_00171.jpg
+1
+405 716 242 323
+Pose/Normal/56_Voter_peoplevoting_56_1046.jpg
+1
+431 442 106 139
+Pose/Extreme/rain_02310.jpg
+0
+Expression/Extreme/54_Rescue_rescuepeople_54_328.jpg
+1
+544 131 163 185
+Light/Regular/47_Matador_Bullfighter_Matador_Bullfighter_47_617.jpg
+1
+240 286 341 372
+Ethnics/African/illumination_00058.jpg
+1
+327 197 326 365
+Pose/Normal/snow_01034.jpg
+1
+393 319 180 234
+Accessories/No/8_Election_Campain_Election_Campaign_8_25.jpg
+1
+589 164 186 233
+Pose/Extreme/lens_02609.jpg
+1
+639 315 174 248
+Expression/Normal/13_Interview_Interview_2_People_Visible_13_409.jpg
+0
+Ethnics/Caucasian/55_Sports_Coach_Trainer_sportcoaching_55_721.jpg
+1
+339 389 416 522
+Light/Irregular/illumination_03391.jpg
+0
+Pose/Extreme/21_Festival_Festival_21_881.jpg
+0
+Ethnics/Asian/56_Voter_peoplevoting_56_747.jpg
+1
+355 55 126 167
+Light/Regular/snow_00195.jpg
+0
+Expression/Extreme/35_Basketball_basketballgame_ball_35_446.jpg
+1
+467 328 117 151
+Pose/Extreme/motion_00868.jpg
+0
+Pose/Normal/9_Press_Conference_Press_Conference_9_828.jpg
+1
+327 480 449 519
+Pose/Extreme/59_peopledrivingcar_peopledrivingcar_59_357.jpg
+0
+Pose/Extreme/34_Baseball_Baseball_34_667.jpg
+1
+475 162 123 164
+Accessories/No/52_Photographers_photographertakingphoto_52_568.jpg
+1
+411 335 348 414
+Pose/Extreme/40_Gymnastics_Gymnastics_40_783.jpg
+0
+Ethnics/Caucasian/46_Jockey_Jockey_46_728.jpg
+0
+Pose/Normal/9_Press_Conference_Press_Conference_9_748.jpg
+1
+302 237 386 504
+Accessories/Yes/haze_03077.jpg
+0
+Light/Regular/30_Surgeons_Surgeons_30_861.jpg
+1
+336 301 390 532
+Ethnics/Caucasian/41_Swimming_Swimmer_41_610.jpg
+1
+456 98 183 234
+Accessories/No/33_Running_Running_33_891.jpg
+1
+427 126 134 179
+Light/Irregular/motion_02664.jpg
+0
+Light/Irregular/illumination_03107.jpg
+0
+Light/Regular/15_Stock_Market_Stock_Market_15_706.jpg
+1
+320 180 184 234
+Ethnics/Asian/34_Baseball_Baseball_34_600.jpg
+1
+378 75 118 158
+Light/Irregular/illumination_00718.jpg
+1
+343 60 117 148
+Accessories/Yes/28_Sports_Fan_Sports_Fan_28_663.jpg
+0
+Light/Irregular/illumination_03105.jpg
+0
+Accessories/No/40_Gymnastics_Gymnastics_40_805.jpg
+1
+469 793 191 225
+Light/Regular/16_Award_Ceremony_Awards_Ceremony_16_124.jpg
+1
+444 137 274 345
+Light/Irregular/illumination_00335.jpg
+0
+Expression/Extreme/41_Swimming_Swimmer_41_232.jpg
+2
+548 324 199 239
+542 18 94 97
+Ethnics/African/32_Worker_Laborer_Worker_Laborer_32_944.jpg
+1
+422 352 92 114
+Light/Regular/16_Award_Ceremony_Awards_Ceremony_16_589.jpg
+1
+446 82 124 154
+Accessories/Yes/13_Interview_Interview_On_Location_13_238.jpg
+1
+645 128 87 92
+Ethnics/African/4_Dancing_Dancing_4_885.jpg
+1
+348 158 236 277
+Accessories/No/41_Swimming_Swimmer_41_711.jpg
+1
+286 206 247 289
+Expression/Normal/16_Award_Ceremony_Awards_Ceremony_16_338.jpg
+1
+352 184 271 326
+Accessories/No/9_Press_Conference_Press_Conference_9_924.jpg
+1
+398 187 243 322
+Light/Regular/4_Dancing_Dancing_4_960.jpg
+1
+385 94 234 269
+Expression/Normal/41_Swimming_Swimmer_41_885.jpg
+1
+413 28 265 337
+Accessories/No/41_Swimming_Swimmer_41_931.jpg
+1
+381 160 182 230
+Expression/Normal/36_Football_americanfootball_ball_36_301.jpg
+1
+429 104 222 259
+Ethnics/Asian/haze_02889.jpg
+0
+Expression/Normal/focus_00249.jpg
+1
+432 97 173 195
+Ethnics/Caucasian/13_Interview_Interview_On_Location_13_569.jpg
+1
+287 398 301 439
+Accessories/Yes/illumination_00721.jpg
+1
+646 198 91 107
+Light/Regular/40_Gymnastics_Gymnastics_40_771.jpg
+1
+389 191 121 152
+Ethnics/Caucasian/8_Election_Campain_Election_Campaign_8_269.jpg
+1
+385 216 245 285
+Expression/Normal/6_Funeral_Funeral_6_861.jpg
+1
+352 288 340 370
+Accessories/Yes/rain_01125.jpg
+0
+Accessories/Yes/24_Soldier_Firing_Soldier_Firing_24_372.jpg
+0
+Light/Regular/46_Jockey_Jockey_46_497.jpg
+1
+451 209 304 329
+Expression/Normal/43_Row_Boat_Canoe_43_881.jpg
+0
+Light/Regular/55_Sports_Coach_Trainer_sportcoaching_55_838.jpg
+1
+649 145 306 379
+Expression/Normal/rain_00001.jpg
+1
+478 322 96 133
+Ethnics/African/31_Waiter_Waitress_Waiter_Waitress_31_740.jpg
+1
+406 103 89 115
+Accessories/Yes/25_Soldier_Patrol_Soldier_Patrol_25_324.jpg
+0
+Ethnics/Caucasian/55_Sports_Coach_Trainer_sportcoaching_55_1027.jpg
+1
+598 58 121 156
+Light/Irregular/illumination_00721.jpg
+1
+646 198 91 107
+Ethnics/African/50_Celebration_Or_Party_houseparty_50_764.jpg
+1
+350 48 158 194
+Light/Regular/13_Interview_Interview_Sequences_13_134.jpg
+2
+337 118 195 255
+787 188 16 20
+Ethnics/Caucasian/31_Waiter_Waitress_Waiter_Waitress_31_858.jpg
+1
+391 60 127 159
+Ethnics/Caucasian/4_Dancing_Dancing_4_1000.jpg
+1
+355 290 342 456
+Light/Regular/41_Swimming_Swimming_41_472.jpg
+1
+163 164 324 413
+Expression/Normal/illumination_00085.jpg
+0
+Accessories/No/focus_00234.jpg
+1
+198 85 278 323
+Pose/Extreme/13_Interview_Interview_On_Location_13_510.jpg
+1
+353 133 248 365
+Pose/Extreme/lens_00203.jpg
+1
+436 16 172 176
+Pose/Extreme/45_Balloonist_Balloonist_45_434.jpg
+1
+575 95 165 205
+Ethnics/Asian/45_Balloonist_Balloonist_45_277.jpg
+1
+457 589 99 119
+Expression/Extreme/41_Swimming_Swimming_41_52.jpg
+0
+Light/Regular/56_Voter_peoplevoting_56_796.jpg
+1
+394 133 220 262
+Ethnics/Caucasian/focus_00032.jpg
+1
+702 3 243 249
+Ethnics/African/13_Interview_Interview_Sequences_13_779.jpg
+1
+390 176 274 402
+Light/Irregular/illumination_00663.jpg
+1
+488 305 182 246
+Expression/Extreme/motion_02673.jpg
+1
+358 654 299 339
+Expression/Extreme/56_Voter_peoplevoting_56_531.jpg
+1
+598 105 95 132
+Accessories/Yes/16_Award_Ceremony_Awards_Ceremony_16_84.jpg
+1
+420 178 272 342
