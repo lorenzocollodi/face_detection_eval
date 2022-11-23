@@ -1,11 +1,11 @@
 def IoU(boxA, boxB):
-    a = boxA[2]*boxA[3]
-    b = boxB[2]*boxB[3]
+    a = (boxA[2]+1)*(boxA[3]+1)
+    b = (boxB[2]+1)*(boxB[3]+1)
     xA = max(boxA[0], boxB[0])
     yA = max(boxA[1], boxB[1])
     xB = min(boxA[2]+boxA[0], boxB[2]+boxB[0])
     yB = min(boxA[3]+boxA[1], boxB[3]+boxB[1])
-    I = max(0, xB - xA) * max(0, yB - yA)
+    I = max(0, xB - xA + 1) * max(0, yB - yA + 1)
     return I/((a+b)-I)
 
 def imgIoU(GT, predictions):
