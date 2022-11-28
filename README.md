@@ -4,7 +4,7 @@ The repositories contains files to run the experiments descripted in the thesis 
 ## Structure
 The repository contains several folders as follows:
 Annotation: contains the .txt filts with the annotated data for benchmark
-Data: a structure of subfolders for moving the data from UFDD and WIDER
+Data: the data from UFDD and WIDER organized in subfolders
 make_datasets: files used to label and move files from UFDD and WIDER
 Predictions: the predictions obtained with the models used for evaluation
 scripts: scripts for useful operations
@@ -15,8 +15,8 @@ The environment relies on installation opencv-python for drawing the images, but
 
 ## How to use:
 Clone the repository locally with `git clone https://github.com/lorenzocollodi/face_detection_eval.git`.
-At this point you will have the Data and Annotation directories setup correctly and you can run the evaluation.
-Open the colab notebook (.ipynb file) in Google Colab and load Data and Annotation in the content folder. Then run all the cells to run the speed tests and extract the predictions.
+Open the colab notebook (.ipynb file) in Google Colab. Then run all the cells to run the speed tests and extract the predictions.
+There is no way to run locally at the moment.
 To get the final mIoU values, download the predictions, put them in the Predictions folder and run `python scripts/calculate_mIoU.py` and the scores will be printed. In case you want to evaluate your own model extract a predictions file in the same format as those provided and add your model in the evaluation file (calculate_mIoU.py).
 
 
