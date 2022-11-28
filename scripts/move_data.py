@@ -1,5 +1,8 @@
 import os
 
+def get_data():
+    os.system()
+
 def main():
     for file in os.listdir("Annotation"):
         for img in list(open(os.path.join("Annotation", file), 'r').readlines())[::3]:
