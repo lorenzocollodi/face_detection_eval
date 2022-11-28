@@ -14,7 +14,7 @@ utils: the actual files for evaluation
 The environment relies on installation opencv-python for drawing the images, but the tests are run on colab, so the dependencies are resolved in the notebook.
 
 ## How to use:
-First download [UFDD](https://ufdd.info) and [WIDER](http://shuoyang1213.me/WIDERFACE/) and put the images (out of their directories) in Data. Then, from the root directory, run `scripts/move_data.py`.
+Clone the repository locally with `git clone git@github.com:lorenzocollodi/face_detection_eval.git`.
 At this point you will have the Data and Annotation directories setup correctly and you can run the evaluation.
 Open the colab notebook (.ipynb file) in Google Colab and load Data and Annotation in the content folder. Then run all the cells to run the speed tests and extract the predictions.
 To get the final mIoU values, download the predictions, put them in the Predictions folder and run `python scripts/calculate_mIoU.py` and the scores will be printed. In case you want to evaluate your own model extract a predictions file in the same format as those provided and add your model in the evaluation file (calculate_mIoU.py).
